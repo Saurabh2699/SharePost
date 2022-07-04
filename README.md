@@ -1,15 +1,17 @@
-# Memories
+# SharePost
 
-![Memories](https://i.ibb.co/7CmVbCW/image.png)
+![SharePost](https://drive.google.com/file/d/1hg5q9_0YA6Ja9J88ldXuO2wWsy_-Yxqk/view?usp=sharing)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+This is a code repository for the corresponding web app - https://sharepost-mern.netlify.app/posts.
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+This app is built using React.js, MongoDB, Express.js and Node.js. For managing the state of the app Redux is being used, to make the state centralized.
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
+The app is called SharePost, which is a simple social media app that allows users to post interesting events in their day to day life.
 
-TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality
+The app is built with full authentication using JWT, and only the users who have signed up in the app are allowed to perform various functions like creating, liking, commenting, deleting the posts.
+
+The app is also provided with search functionalities using simple text, or the tags attached to the post.
+
+The app has many functionalities so go and checkout the app at the following url: https://sharepost-mern.netlify.app/posts
