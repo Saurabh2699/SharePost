@@ -1,7 +1,5 @@
 # SharePost
 
-![SharePost](https://drive.google.com/file/d/1hg5q9_0YA6Ja9J88ldXuO2wWsy_-Yxqk/view?usp=sharing)
-
 ## Introduction
 
 This is a code repository for the corresponding web app - https://sharepost-mern.netlify.app/posts.
